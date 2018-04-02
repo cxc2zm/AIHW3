@@ -6,4 +6,7 @@ to commit & push
 3. git push
 
 to pull
-1. git pull 
+1. git pull
+
+
+this was added by mitch 
